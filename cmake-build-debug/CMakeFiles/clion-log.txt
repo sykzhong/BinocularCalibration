@@ -1,0 +1,8 @@
+/home/syk/Software/clion-2017.2.2/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/syk/CLionProjects/BinocularCalibration
+-- OpenCV library status:
+--     version: 3.1.0
+--     libraries: opencv_xphoto;opencv_xobjdetect;opencv_ximgproc;opencv_xfeatures2d;opencv_tracking;opencv_text;opencv_surface_matching;opencv_structured_light;opencv_stereo;opencv_sfm;opencv_saliency;opencv_rgbd;opencv_reg;opencv_plot;opencv_optflow;opencv_line_descriptor;opencv_fuzzy;opencv_face;opencv_dpm;opencv_dnn;opencv_datasets;opencv_ccalib;opencv_bioinspired;opencv_bgsegm;opencv_aruco;opencv_videostab;opencv_videoio;opencv_video;opencv_superres;opencv_stitching;opencv_shape;opencv_photo;opencv_objdetect;opencv_ml;opencv_imgproc;opencv_imgcodecs;opencv_highgui;opencv_flann;opencv_features2d;opencv_cudev;opencv_cudawarping;opencv_cudastereo;opencv_cudaoptflow;opencv_cudaobjdetect;opencv_cudalegacy;opencv_cudaimgproc;opencv_cudafilters;opencv_cudafeatures2d;opencv_cudacodec;opencv_cudabgsegm;opencv_cudaarithm;opencv_core;opencv_calib3d
+--     include path: /usr/local/include/opencv;/usr/local/include
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/syk/CLionProjects/BinocularCalibration/cmake-build-debug
